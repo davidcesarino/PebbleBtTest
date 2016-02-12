@@ -1,0 +1,19 @@
+{
+    "uuid": "cccccccc-dddd-aaaa-eeee-998877665544",
+    "shortName": "Conn test",
+    "longName": "Connection test",
+    "companyName": "David Cesarino de Sousa",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "sdkVersion": "3",
+    "targetPlatforms": ["aplite", "basalt"],
+    "watchapp": {
+        "watchface": true
+    },
+    "appKeys": {
+        "dummy": 0
+    },
+	"resources": {
+        "media": []
+    }
+}
